@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\bin\Debug\net6.0\Heap_Stack.exe
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\bin\Debug\net6.0\Heap_Stack.deps.json
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\bin\Debug\net6.0\Heap_Stack.runtimeconfig.json
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\bin\Debug\net6.0\Heap_Stack.dll
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\bin\Debug\net6.0\Heap_Stack.pdb
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.dll
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\refint\Heap_Stack.dll
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.pdb
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\Heap_Stack.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C#\Heap_stack\Heap_Stack\Heap_Stack\obj\Debug\net6.0\ref\Heap_Stack.dll
